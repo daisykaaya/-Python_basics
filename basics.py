@@ -1,1 +1,2 @@
-print("Hello World")
+#python comments
+print("Hello World") #this is a string
